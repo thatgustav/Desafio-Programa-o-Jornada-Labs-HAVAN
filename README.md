@@ -1,6 +1,7 @@
 Guia de utilização do programa desenvolvido por Gustavo Flores Lenz como resposta ao desafio de programação proposto pela HAVAN Labs.
 -------------------------------------------------------------------------------------------------------------------------------------
 _O código foi escrito utilizando a linguagem C++ pela IDE Visual Studio 2019._
+_Sua interface é exibida pelo propt de comando._
 
 
 O enunciado propôs a criação de um algoritmo para uma casa de câmbio fictícia.
