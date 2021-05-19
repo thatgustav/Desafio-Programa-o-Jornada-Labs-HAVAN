@@ -8,7 +8,6 @@ int main()
     string nome;
     float valori, valconv, valtax, valfinal;
     int ori, dest;
-    bool close=false;
     
 
         cout << "Insira apenas o primeiro nome do cliente: ";
